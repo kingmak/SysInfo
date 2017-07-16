@@ -1,0 +1,16 @@
+C:\Users\KingMak\AppData\Local\Temporary Projects\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\KingMak\AppData\Local\Temporary Projects\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\KingMak\AppData\Local\Temporary Projects\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\KingMak\AppData\Local\Temporary Projects\SysInfo\bin\Debug\SystemMaloomat.dll
+C:\Users\KingMak\AppData\Local\Temporary Projects\SysInfo\bin\Debug\SystemMaloomat.pdb
+C:\Users\KingMak\AppData\Local\Temporary Projects\SysInfo\obj\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\KingMak\AppData\Local\Temporary Projects\SysInfo\obj\Debug\SysInfo.exe
+C:\Users\KingMak\AppData\Local\Temporary Projects\SysInfo\obj\Debug\SysInfo.pdb
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.exe
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.pdb
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SystemMaloomat.dll
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SystemMaloomat.pdb
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Debug\SysInfo.csprojResolveAssemblyReference.cache

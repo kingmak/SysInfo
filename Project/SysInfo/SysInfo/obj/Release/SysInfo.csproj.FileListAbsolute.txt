@@ -1,0 +1,7 @@
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.exe.config
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.exe
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SysInfo.pdb
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SystemMaloomat.dll
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Release\SystemMaloomat.pdb
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.exe
+C:\Users\KingMak\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\Release\SysInfo.pdb
